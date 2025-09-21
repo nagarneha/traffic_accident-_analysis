@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# Dataset files
+*.csv
+*.xlsx
+
+# VS Code settings
+.vscode/
+
+# Mac/Linux system files
+.DS_Store
